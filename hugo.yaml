@@ -1,0 +1,63 @@
+baseURL: https://geeksmanifesto.blog/
+languageCode: en-us
+title: Geeks Manifesto
+theme: PaperMod
+
+pagination:
+  pagerSize: 5
+
+enableRobotsTXT: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  author: Abdullah Ahmed
+  homeInfoParams:
+    env: production
+    Title: "Geeks Manifesto"
+    Content: A technical blog and portfolio exploring cybersecurity, operating systems, random topics, and practical insights from the world of technology.
+  
+  socialIcons:
+    - name: github
+      url: "https://github.com/abdullahahmed13"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/abdullahahmed11/"
+  cover:
+    linkFullImages: false
+
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+

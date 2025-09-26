@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Geeks Manifesto</title>
+    <link>https://geeksmanifesto.blog/</link>
+    <description>Recent content on Geeks Manifesto</description>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://geeksmanifesto.blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is my first hugo test post !</title>
+      <link>https://geeksmanifesto.blog/posts/first/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://geeksmanifesto.blog/posts/first/</guid>
+      <description>&lt;h1 id=&#34;lets-blog-some-stuff&#34;&gt;Let&amp;rsquo;s blog some stuff.&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>
