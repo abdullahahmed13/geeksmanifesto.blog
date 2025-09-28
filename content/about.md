@@ -21,7 +21,7 @@ I created **GeeksManifesto** as a space to document and share what I learn alo
 - Developing freelance projects & Automation pipelines with Golang.
 - Blogging and Polishing my writing skills.
 
-## $ Get in Touch:
+## Get in Touch:
 - **LinkedIn:** https://www.linkedin.com/in/abdullahahmed11/
 - **Email:** `0xtheorist@gmail.com`
 - **Github:** https://github.com/abdullahahmed13
