@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Geeks Manifesto</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://geeksmanifesto.blog/posts/</link>
     <description>Recent content in Posts on Geeks Manifesto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://geeksmanifesto.blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This is my first hugo test post !</title>
-      <link>http://localhost:1313/posts/first/</link>
+      <link>https://geeksmanifesto.blog/posts/first/</link>
       <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/first/</guid>
+      <guid>https://geeksmanifesto.blog/posts/first/</guid>
       <description>&lt;h1 id=&#34;lets-blog-some-stuff&#34;&gt;Let&amp;rsquo;s blog some stuff.&lt;/h1&gt;</description>
       <content:encoded><![CDATA[<h1 id="lets-blog-some-stuff">Let&rsquo;s blog some stuff.</h1>
 ]]></content:encoded>
