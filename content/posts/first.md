@@ -6,8 +6,6 @@ draft: false
 #     image: img/headphones.JPG
 #     alt: 'This is a post image'
 #     caption: 'This is the caption'
-tags: ["test", "blogging"]
-categories: ["tech"]
 ---
 
 # Let's blog some stuff.

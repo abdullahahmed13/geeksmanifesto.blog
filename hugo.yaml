@@ -1,7 +1,7 @@
 baseURL: https://geeksmanifesto.blog/
 languageCode: en-us
 title: Geeks Manifesto
-theme: PaperMod
+theme: PaperModX
 
 pagination:
   pagerSize: 5
@@ -38,7 +38,7 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: false
+  showtoc: true
   tocopen: false
 
   ShowBreadCrumbs: true
@@ -48,13 +48,13 @@ params:
 
 menu:
   main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
+    - identifier: about
+      name: About
+      url: /about/
       weight: 10
-    - identifier: tags
-      name: Tags
-      url: /tags/
+    - identifier: posts
+      name: Posts
+      url: /posts/
       weight: 20
     - identifier: archives
       name: Archives
