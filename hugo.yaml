@@ -1,7 +1,7 @@
 baseURL: https://geeksmanifesto.blog/
 languageCode: en-us
 title: Geeks Manifesto
-theme: PaperModX
+theme: PaperMod
 
 pagination:
   pagerSize: 5
@@ -13,6 +13,7 @@ minify:
   minifyOutput: true
 
 params:
+
   author: Abdullah Ahmed
   homeInfoParams:
     env: production

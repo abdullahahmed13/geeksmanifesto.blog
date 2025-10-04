@@ -4,19 +4,19 @@
     <title>Posts on Geeks Manifesto</title>
     <link>https://geeksmanifesto.blog/posts/</link>
     <description>Recent content in Posts on Geeks Manifesto</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.150.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://geeksmanifesto.blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://geeksmanifesto.blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>This is my first hugo test post !</title>
-      <link>https://geeksmanifesto.blog/posts/first/</link>
-      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://geeksmanifesto.blog/posts/first/</guid>
-      <description>&lt;h1 id=&#34;lets-blog-some-stuff&#34;&gt;Let&amp;rsquo;s blog some stuff.&lt;/h1&gt;</description>
-      <content:encoded><![CDATA[<h1 id="lets-blog-some-stuff">Let&rsquo;s blog some stuff.</h1>
-]]></content:encoded>
+      <title>Automate Repetitive Tasks with Cron Jobs on Mac and Linux</title>
+      <link>https://geeksmanifesto.blog/posts/cron/</link>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://geeksmanifesto.blog/posts/cron/</guid>
+      <description>&lt;p&gt;In this article, You will learn how to automate repetitive tasks on &lt;strong&gt;macOS&lt;/strong&gt; and &lt;strong&gt;Linux&lt;/strong&gt; using &lt;strong&gt;Cron Jobs&lt;/strong&gt;. We will cover the &lt;strong&gt;crontab&lt;/strong&gt; syntax, real-world scenarios in the context of Cyber Security and how to easily edit schedules with &lt;a href=&#34;https://crontab.guru&#34;&gt;crontab.guru&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-crontab&#34;&gt;What is Crontab&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Crontab&lt;/strong&gt; is a powerful utility used in Task Scheduling and Automation in Unix-Like Operating Systems such as macOs and Linux. It allows users to run Unix commands, Bash Scripts or certain tasks at predefined specific time intervals.
+It&amp;rsquo;s really powerful for system maintenance tasks, cache management, updating databases and even automating Cyber Security or Asset discovery tasks.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
