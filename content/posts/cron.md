@@ -1,6 +1,6 @@
 ---
 title: "Automate Repetitive Tasks with Cron Jobs on Mac and Linux"
-date: 2025-10-04
+date: 2025-09-27
 draft: false
 ---
 

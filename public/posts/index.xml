@@ -6,12 +6,12 @@
     <description>Recent content in Posts on Geeks Manifesto</description>
     <generator>Hugo -- 0.150.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://geeksmanifesto.blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automate Repetitive Tasks with Cron Jobs on Mac and Linux</title>
       <link>https://geeksmanifesto.blog/posts/cron/</link>
-      <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://geeksmanifesto.blog/posts/cron/</guid>
       <description>&lt;p&gt;In this article, You will learn how to automate repetitive tasks on &lt;strong&gt;macOS&lt;/strong&gt; and &lt;strong&gt;Linux&lt;/strong&gt; using &lt;strong&gt;Cron Jobs&lt;/strong&gt;. We will cover the &lt;strong&gt;crontab&lt;/strong&gt; syntax, real-world scenarios in the context of Cyber Security and how to easily edit schedules with &lt;a href=&#34;https://crontab.guru&#34;&gt;crontab.guru&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-crontab&#34;&gt;What is Crontab&lt;/h2&gt;
